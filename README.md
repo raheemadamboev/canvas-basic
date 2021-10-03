@@ -1,4 +1,4 @@
-# canvas-basic
+# canvas-basics
 Jetpack Compose basic actions with Canvas
 
 <a href="https://github.com/raheemadamboev/canvas-basic/blob/master/app-debug.apk">Demo app</a>
